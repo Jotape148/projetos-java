@@ -1,0 +1,22 @@
+INDEX VERSION 1.134+C:\Users\João Pedro\Desktop\projetos java\.metadata\.plugins\org.eclipse.jdt.core
+2423725110.index
+729496648.index
+721784221.index
+2273451309.index
+3498797271.index
+822259164.index
+1586107692.index
+2842934539.index
+2185977559.index
+3347268758.index
+697116090.index
+1233271149.index
+3085545497.index
+1818975786.index
+1147925837.index
+47672303.index
+2810992705.index
+3661941195.index
+1865797976.index
+4085298084.index
+3841271555.index
